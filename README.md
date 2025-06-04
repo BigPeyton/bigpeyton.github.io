@@ -4,7 +4,6 @@
     <script>
       document.write(document.lastModified)
     </script>
-    <title>Page title</title>
   </head>
   <body>
     <h1>
