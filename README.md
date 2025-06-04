@@ -1,9 +1,8 @@
 # bigpeyton.github.io
 <html>
   <head>
-    
+    <script>document.write(document.lastModified);</script>
   </head>
-  <script>document.write(document.lastModified);</script>
   <body>
     
   </body>
