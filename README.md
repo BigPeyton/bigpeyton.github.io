@@ -5,10 +5,6 @@
     </script>
   </head>
   <body>
-    <style>
-      {background-image: url(['example_img_girl.jpg'](https://www.pixelstalk.net/wp-content/uploads/images2/Chicago-Skyline-Desktop-Wallpaper.jpg));
-       background-repeat: no-repeat;}
-    </style>
     <h1>
       Our Services
     </h1>
