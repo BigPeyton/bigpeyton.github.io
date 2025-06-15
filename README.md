@@ -72,5 +72,12 @@
     <p style="font-family:times new roman;font-size:20px;">
       To streamline your project and avoid unpleasant hassle, we offer a general contracting service. We can take the stress off your hands and manage every aspect of your project, utilizing our various departments, even subcontracting if need be. We are happy to manage your project!
     </p>
+    <p style="font-family:times new roman;font-size:25px;color:teal">
+      Check out this article on why to hire a contractor! <a href="https://www.forbes.com/home-improvement/contractor/reasons-to-hire-general-contractor/">Forbes</a>
+    </p>
          </li>
          </div>
+
+<p style="font-family:times new roman;font-size:30px;">
+    <a href="mailto:joebusiness@fakemail.com">Email Me!</a>
+</p/>
