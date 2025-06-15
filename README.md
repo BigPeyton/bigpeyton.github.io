@@ -16,7 +16,7 @@
     </h1>
      <ul>
 
-       <div>
+       <div style="background-color:gray;">
        <li>
        <h2>London</h2>
     <p>
