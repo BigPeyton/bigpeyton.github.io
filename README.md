@@ -16,7 +16,7 @@
     </h1>
      <ul>
 
-       <div>
+       <div class="text-box">
        <li>
     <p>
       My first paragraph.
