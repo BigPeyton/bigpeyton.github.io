@@ -16,14 +16,9 @@
     </h1>
      <ul>
 
-       <div class="text-box">
-       div.text-box {
- width: 80%;
- padding: 10px;
- border: 5px solid gray;
- margin: 0;
-}
+       <div>
        <li>
+       <h2>London</h2>
     <p>
       My first paragraph.
     </p>
