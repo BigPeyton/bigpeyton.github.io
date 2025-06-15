@@ -14,11 +14,17 @@
     <h1 style="font-family:Georgia;">
       Our Services
     </h1>
+<p style="font-family:times new roman;">
+      Whether you require residential or industrial construction, or anything in between, Tekton has a wide range of services to accommodate your needs!
+    </p>
+    
      <ul>
 
        <div style="background-color:lightgrey; width: 300px;">
        <li>
-       <h2>Concrete</h2>
+       <h2 style="font-family:Georgia;">
+       Concrete
+       </h2>
     <p>
       Whether you require residential or industrial construction, or anything in between, Tekton has a wide range of services to accommodate your needs!
     </p>
