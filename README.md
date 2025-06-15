@@ -11,10 +11,10 @@
   <body style = 'background: url(https://www.pixelstalk.net/wp-content/uploads/images2/Chicago-Skyline-Desktop-Wallpaper.jpg)'>
   </body>
   <body>
-    <h1 style="font-family:Georgia;">
+    <h1 style="font-family:Georgia; background-color:lightgrey;">
       Our Services
     </h1>
-<p style="font-family:times new roman;">
+<p style="font-family:times new roman; background-color:lightgrey;">
       Whether you require residential or industrial construction, or anything in between, Tekton has a wide range of services to accommodate your needs!
     </p>
     
