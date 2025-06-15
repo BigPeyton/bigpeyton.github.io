@@ -6,8 +6,8 @@
   </head>
   <body>
     <style>
-      body {background-image: ![Chicago-Skyline-Desktop-Wallpaper](https://github.com/user-attachments/assets/1ed48915-abb7-4489-8931-c4503a8107ea)
-; background-repeat: no-repeat;}
+      {background-image: url(['example_img_girl.jpg'](https://www.pixelstalk.net/wp-content/uploads/images2/Chicago-Skyline-Desktop-Wallpaper.jpg));
+       background-repeat: no-repeat;}
     </style>
     <h1>
       Our Services
