@@ -34,10 +34,10 @@
          <div style="background-color:lightgrey; width: 300px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
-       <i>Concrete</i>
+       <i>Framing</i>
        </h2>
     <p style="font-family:times new roman;font-size:20px;">
-      We are experts in concrete! From driveways to walkways and foundations to footings, we are specialists. Our concrete work is second to none!
+      We can cover all your framing needs! From wood to metal, we can guarantee you a custom-quality backbone for your project. We also offer repairs and top-of-the-line weather-proofing.
     </p>
          </li>
          </div>
@@ -45,10 +45,10 @@
          <div style="background-color:lightgrey; width: 300px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
-       <i>Concrete</i>
+       <i>Demolition</i>
        </h2>
     <p style="font-family:times new roman;font-size:20px;">
-      We are experts in concrete! From driveways to walkways and foundations to footings, we are specialists. Our concrete work is second to none!
+      We offer full demolition services that are not just reliable, but also safe and efficient. Our experts can carefully remove interior walls or level an entire structure, and we’ll haul the waste away.
     </p>
          </li>
          </div>
@@ -56,10 +56,10 @@
          <div style="background-color:lightgrey; width: 300px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
-       <i>Concrete</i>
+       <i>Specialty Services</i>
        </h2>
     <p style="font-family:times new roman;font-size:20px;">
-      We are experts in concrete! From driveways to walkways and foundations to footings, we are specialists. Our concrete work is second to none!
+      We have many strong branches and offer HVAC, electrical, plumbing, and even roofing installation. Our technicians are versed in all manner of trades and eager to help you on your next project.
     </p>
          </li>
          </div>
@@ -67,10 +67,10 @@
          <div style="background-color:lightgrey; width: 300px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
-       <i>Concrete</i>
+       <i>General Contracting</i>
        </h2>
     <p style="font-family:times new roman;font-size:20px;">
-      We are experts in concrete! From driveways to walkways and foundations to footings, we are specialists. Our concrete work is second to none!
+      To streamline your project and avoid unpleasant hassle, we offer a general contracting service. We can take the stress off your hands and manage every aspect of your project, utilizing our various departments, even subcontracting if need be. We are happy to manage your project!
     </p>
          </li>
          </div>
