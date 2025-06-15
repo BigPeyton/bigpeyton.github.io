@@ -8,15 +8,17 @@
     <h1>
       Our Services
     </h1>
-     <ol>
+     <ul>
        <li>
     <p>
       My first paragraph.
     </p>
          </li>
+       <li>
     <p>
       My second paragraph muahahahahaha.
     </p>
-    </ol>
+       </li>
+    </ul>
   </body>
 </html>
