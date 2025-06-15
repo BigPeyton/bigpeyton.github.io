@@ -15,13 +15,15 @@
       Our Services
     </h1>
      <ul>
+
+       <div>
        <li>
-         <div>
     <p>
       My first paragraph.
     </p>
          </li>
          </div>
+         
          <div>
        <li>
     <p>
