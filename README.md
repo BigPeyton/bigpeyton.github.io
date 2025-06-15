@@ -25,7 +25,7 @@
        <h2 style="font-family:Georgia;">
        Concrete
        </h2>
-    <p>
+    <p style="font-family:times new roman;font-size:20px">
       Whether you require residential or industrial construction, or anything in between, Tekton has a wide range of services to accommodate your needs!
     </p>
          </li>
