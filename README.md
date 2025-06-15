@@ -8,7 +8,7 @@
     </script>
   </head>
   
-  <body style = 'background: yellow'>
+  <body style = 'background: url(https://www.pixelstalk.net/wp-content/uploads/images2/Chicago-Skyline-Desktop-Wallpaper.jpg)'>
   </body>
   <body>
     <h1>
