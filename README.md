@@ -16,11 +16,11 @@
     </h1>
      <ul>
 
-       <div style="background-color:lightgrey;">
+       <div style="background-color:lightgrey; width: 300px;">
        <li>
-       <h2>London</h2>
+       <h2>Concrete</h2>
     <p>
-      My first paragraph.
+      Whether you require residential or industrial construction, or anything in between, Tekton has a wide range of services to accommodate your needs!
     </p>
          </li>
          </div>
