@@ -3,9 +3,7 @@
     <style>
       
     </style>
-    <script>
-      document.write(document.lastModified)
-    </script>
+    
   </head>
   
   <body style = 'background: url(https://www.pixelstalk.net/wp-content/uploads/images2/Chicago-Skyline-Desktop-Wallpaper.jpg)'>
@@ -88,3 +86,10 @@
 <p style="font-family:times new roman;font-size:30px;">
     <a href="mailto:joebusiness@fakemail.com">Email Me! -Joe Joseph, Service Director</a>
 </p/>
+
+<p>
+    Date last modified:
+<script>
+      document.write(document.lastModified)
+    </script>
+    </p>
