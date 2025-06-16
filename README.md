@@ -85,7 +85,6 @@
 <div style="background-color:lightgrey; width: 500px;">
 <p style="font-family:times new roman;font-size:30px;">
     <a href="mailto:joebusiness@fakemail.com">Email Me! -Joe Joseph, Service Director</a>
-</p/>
 
 <p>
     Date last modified:
