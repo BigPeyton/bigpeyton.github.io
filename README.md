@@ -26,7 +26,7 @@
        <i>Concrete</i>
        </h2>
     <p style="font-family:times new roman;font-size:20px;">
-      We are experts in concrete! From driveways to walkways and foundations to footings, we are specialists. Our concrete work is second to none! See below our different concrete offerings:
+      We are experts in concrete! From driveways to walkways and foundations to footings, we are specialists. Our concrete work is second to none! See below our different concrete offerings, and refer to our <a href="" download>Concrete Table</a>
     </p>
     <ol>
         <li>
