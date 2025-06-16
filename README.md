@@ -18,7 +18,7 @@
     
      <ul>
 
-       <div style="background-color:lightgrey; width: 300px;">
+       <div style="background-color:lightgrey; width: 350px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
        <i>Concrete</i>
@@ -46,7 +46,7 @@
          </li>
          </div>
 
-         <div style="background-color:lightgrey; width: 300px;">
+         <div style="background-color:lightgrey; width: 350px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
        <i>Demolition</i>
@@ -57,7 +57,7 @@
          </li>
          </div>
 
-         <div style="background-color:lightgrey; width: 300px;">
+         <div style="background-color:lightgrey; width: 350px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
        <i>Specialty Services</i>
@@ -68,7 +68,7 @@
          </li>
          </div>
 
-         <div style="background-color:lightgrey; width: 300px;">
+         <div style="background-color:lightgrey; width: 350px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
        <i>General Contracting</i>
