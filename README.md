@@ -49,6 +49,17 @@
          <div style="background-color:lightgrey; width: 350px;">
        <li>
        <h2 style="font-family:Georgia;font-size:40px;">
+       <i>Framing</i>
+       </h2>
+    <p style="font-family:times new roman;font-size:20px;">
+      We can cover all your framing needs! From wood to metal, we can guarantee you a custom-quality backbone for your project. We also offer repairs and top-of-the-line weather-proofing.
+    </p>
+         </li>
+         </div>
+         
+         <div style="background-color:lightgrey; width: 350px;">
+       <li>
+       <h2 style="font-family:Georgia;font-size:40px;">
        <i>Demolition</i>
        </h2>
     <p style="font-family:times new roman;font-size:20px;">
